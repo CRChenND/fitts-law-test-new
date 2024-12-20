@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+
+# Angular specific files
+dist/
+tmp/
+out-tsc/
+.angular/
+
+# Generated files
+*.log
+*.tsbuildinfo
+
+# Environment files
+environment.prod.ts
+*.env
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Debug and build logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional eslint cache
+.eslintcache
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# JetBrains IDE
+*.iml
+.idea/
+
+# Compiled Angular service workers
+ngsw-config.json
